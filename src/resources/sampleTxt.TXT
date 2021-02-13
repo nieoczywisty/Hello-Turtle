@@ -1,0 +1,14 @@
+<plik opisu> ::= {<komenda>}
+<komenda> ::= <komenda_prosta>
+<komenda_prosta> ::= <komenda_ustaw> | <komenda_podnieś> |
+ <komenda_opuść> | <komenda_naprzód> |
+ <komenda_obrót>
+<komenda_ustaw> ::= ustaw <punkt> , <kąt> ;
+<komenda_podnieś> ::= podnies ;
+<komenda_opuść> ::= opusc ;
+<komenda_naprzód> ::= naprzod <liczba> ;
+<komenda_obrót> ::= obrot <liczba> ;
+<komenda_kolor> ::= kolor <kolor> ;
+<punkt> ::= [ <liczba> , <liczba> ]
+<kąt> ::= <liczba>
+<liczba> ::= [0..9] {[0..9]} 

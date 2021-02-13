@@ -1,5 +1,5 @@
 # Hello-Turtle
-Attempted to create "logo" like language to draw shapes with "Turtle"
+Attempted to create "logo" like language interpreter to draw shapes with "Turtle" in JavaFx
 Gui in JavaFX
 Sample files are in resources folder
 Known issues:

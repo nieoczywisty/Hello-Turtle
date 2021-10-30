@@ -4,7 +4,7 @@ Attempted to create "logo" like language interpreter to draw shapes with "Turtle
 Gui in JavaFX <br>
 Sample files are in resources folder <br>
 ## Known issues: <br>
--lack of point verification. <br>
+-lack of point to canvas size coordinates verification.  <br>
 -you can interrupt drawing lines with menuItem clear image . <br>
 -rotation angle works but not exactly as it should. <br>
 

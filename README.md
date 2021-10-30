@@ -9,8 +9,8 @@ Sample files are in resources folder <br>
 -rotation angle works but not exactly as it should. <br>
 
 # What i've lerned
--basics of fxml mvc model in javaFX.
--reading file line by line, highlighting currently processed line in textarea.
--basics of canvas and graphical object transformations.
+-basics of fxml mvc model in javaFX.<br>
+-reading file line by line, highlighting currently processed line in textarea.<br>
+-basics of canvas and graphical object transformations.<br>
 ## Version
 Propably v0.1 is the last ]:-> 

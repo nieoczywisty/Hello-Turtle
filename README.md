@@ -14,3 +14,6 @@ Sample files are in resources folder <br>
 -basics of canvas and graphical object transformations.<br>
 ## Version
 Propably v0.1 is the last ]:-> 
+# Screenshot
+![image](turtle-image.png)
+
